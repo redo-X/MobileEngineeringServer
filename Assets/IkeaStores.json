@@ -1,0 +1,214 @@
+[
+    {
+        "store_id": 66,
+        "store_name": "IKEA Augsburg "
+    },
+    {
+        "store_id": 324,
+        "store_name": "IKEA Berlin-Lichtenberg "
+    },
+    {
+        "store_id": 394,
+        "store_name": "IKEA Berlin-Spandau "
+    },
+    {
+        "store_id": 421,
+        "store_name": "IKEA Berlin-Tempelhof "
+    },
+    {
+        "store_id": 129,
+        "store_name": "IKEA Berlin-Waltersdorf "
+    },
+    {
+        "store_id": 119,
+        "store_name": "IKEA Bielefeld "
+    },
+    {
+        "store_id": 117,
+        "store_name": "IKEA Braunschweig "
+    },
+    {
+        "store_id": 412,
+        "store_name": "IKEA Bremerhaven "
+    },
+    {
+        "store_id": 228,
+        "store_name": "IKEA Brinkum "
+    },
+    {
+        "store_id": 118,
+        "store_name": "IKEA Chemnitz "
+    },
+    {
+        "store_id": 223,
+        "store_name": "IKEA Dortmund "
+    },
+    {
+        "store_id": 221,
+        "store_name": "IKEA Dresden "
+    },
+    {
+        "store_id": 425,
+        "store_name": "IKEA Duisburg "
+    },
+    {
+        "store_id": 321,
+        "store_name": "IKEA Düsseldorf "
+    },
+    {
+        "store_id": 396,
+        "store_name": "IKEA Erfurt "
+    },
+    {
+        "store_id": 148,
+        "store_name": "IKEA Essen "
+    },
+    {
+        "store_id": 393,
+        "store_name": "IKEA Frankfurt "
+    },
+    {
+        "store_id": 320,
+        "store_name": "IKEA Freiburg "
+    },
+    {
+        "store_id": 226,
+        "store_name": "IKEA Großüburgwedel "
+    },
+    {
+        "store_id": 139,
+        "store_name": "IKEA Halle/Leipzig "
+    },
+    {
+        "store_id": 245,
+        "store_name": "IKEA Hamburg-Altona "
+    },
+    {
+        "store_id": 325,
+        "store_name": "IKEA Hamburg-Moorfleet "
+    },
+    {
+        "store_id": 146,
+        "store_name": "IKEA Hamburg-Schnelsen "
+    },
+    {
+        "store_id": 222,
+        "store_name": "IKEA Hanau "
+    },
+    {
+        "store_id": 187,
+        "store_name": "IKEA Hannover EXPO-Park "
+    },
+    {
+        "store_id": 494,
+        "store_name": "IKEA Kaarst "
+    },
+    {
+        "store_id": 430,
+        "store_name": "IKEA Kaiserslautern "
+    },
+    {
+        "store_id": 323,
+        "store_name": "IKEA Kamen "
+    },
+    {
+        "store_id": 174,
+        "store_name": "IKEA Kassel "
+    },
+    {
+        "store_id": 333,
+        "store_name": "IKEA Kiel "
+    },
+    {
+        "store_id": 332,
+        "store_name": "IKEA Koblenz "
+    },
+    {
+        "store_id": 102,
+        "store_name": "IKEA Köln-Butzweilerhof "
+    },
+    {
+        "store_id": 147,
+        "store_name": "IKEA Köln-Godorf "
+    },
+    {
+        "store_id": 289,
+        "store_name": "IKEA Lübeck "
+    },
+    {
+        "store_id": 225,
+        "store_name": "IKEA Ludwigsburg "
+    },
+    {
+        "store_id": 520,
+        "store_name": "IKEA Magdeburg "
+    },
+    {
+        "store_id": 397,
+        "store_name": "IKEA Mannheim "
+    },
+    {
+        "store_id": 343,
+        "store_name": "IKEA München-Brunnthal "
+    },
+    {
+        "store_id": 63,
+        "store_name": "IKEA München-Eching "
+    },
+    {
+        "store_id": 326,
+        "store_name": "IKEA Nürnberg/Fürth "
+    },
+    {
+        "store_id": 69,
+        "store_name": "IKEA Oldenburg "
+    },
+    {
+        "store_id": 184,
+        "store_name": "IKEA Osnabrück "
+    },
+    {
+        "store_id": 229,
+        "store_name": "IKEA Regensburg "
+    },
+    {
+        "store_id": 92,
+        "store_name": "IKEA Rostock "
+    },
+    {
+        "store_id": 227,
+        "store_name": "IKEA Saarlouis "
+    },
+    {
+        "store_id": 369,
+        "store_name": "IKEA Siegen "
+    },
+    {
+        "store_id": 224,
+        "store_name": "IKEA Sindelfingen "
+    },
+    {
+        "store_id": 328,
+        "store_name": "IKEA Ulm "
+    },
+    {
+        "store_id": 322,
+        "store_name": "IKEA Wallau "
+    },
+    {
+        "store_id": 75,
+        "store_name": "IKEA Walldorf "
+    },
+    {
+        "store_id": 493,
+        "store_name": "IKEA Wetzlar "
+    },
+    {
+        "store_id": 492,
+        "store_name": "IKEA Wuppertal "
+    },
+    {
+        "store_id": 124,
+        "store_name": "IKEA Würzburg "
+    }
+]

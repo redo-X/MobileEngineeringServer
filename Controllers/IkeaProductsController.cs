@@ -135,7 +135,7 @@ namespace MobileEngineeringServer.Controllers
                     product.LargeImageUrls.Add(item.Text);
                 }
 
-                return Ok(JsonConvert.SerializeObject(product));
+                return Json(product);
             }
 
             return BadRequest();
